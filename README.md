@@ -5,6 +5,23 @@ It serves as a good example for simple use cases - as there are only shared vari
 #### BE AWARE: This is not the current version of HAL Robotics documentation - see below
 
 
+## Initialise
+
+1. Open vscode [download vscode here](https://code.visualstudio.com/download).
+2. Install the Docs Assembler extension on vscode [download Docs Assembler here](https://marketplace.visualstudio.com/items?itemName=netoftrees.documentation-assembler).
+3. Clone this repo to your computer.
+4. In the vscode Activity Bar click the Docs Assembler icon - _outlined in green_.
+
+<img src="./ActivityBar.png">
+
+5. Click the Initialise button to create the cache folders.
+
+<img src="./Initialise.png">
+
+6. The repo is now ready to use.
+
+
+
 ## Docs Assembler - build documentation like Lego
 
 - Reuse of interchangeable **blocks** and **fragments** of text.

@@ -72,5 +72,8 @@
                 "foreground": "#da70d6"
             }
         }
-    ]
+    ],
+    "docsAssembler.tsmaps.folder": "tsmaps",
+    "docsAssembler.publish.folder": "pub",
+    "docsAssembler.docs.folder": "docs"
 }
