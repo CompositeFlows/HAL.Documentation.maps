@@ -22,7 +22,7 @@ The vscode extension Docs Assembler can be downloaded here:
 [www.netoftrees.com](https://www.netoftrees.com/)
 
 
-[<img src="Walkthrough-thumbnail.png" width="50%">](https://vimeo.com/1013352380?share=copy#t=0)
+[<img src="Walkthrough-thumbnail.png">](https://vimeo.com/1013352380?share=copy#t=0)
 
 
 
