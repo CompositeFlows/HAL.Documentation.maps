@@ -1,0 +1,54 @@
+{
+    "key": "Kq9t1400bf  ",
+    "token": "Grasshopper",
+    "name": "Grasshopper",
+    "created": "2024-09-08T23:43:02.550Z",
+    "list": true,
+    "publishFileName": "Contents",
+    "iText": "Link to 'Grasshopper'",
+    "___rΩΩt___": {
+        "key": "Kq9woK000a",
+        "nodes": [
+            {
+                "key": "KtSGXV00Qa",
+                "order": 1,
+                "option": "Next",
+                "nodes": [
+                    {
+                        "key": "KqA6eq00J1",
+                        "order": 1,
+                        "option": "Next",
+                        "nodes": [
+                            {
+                                "key": "KqEcWz00Do",
+                                "order": 1,
+                                "option": "Next",
+                                "nodes": [
+                                    {
+                                        "key": "KqEjdC00ak",
+                                        "order": 1,
+                                        "option": "Next",
+                                        "nodes": [
+                                            {
+                                                "key": "KqEq2E01bN",
+                                                "order": 1,
+                                                "option": "Next",
+                                                "nodes": [
+                                                    {
+                                                        "key": "KqEwXk01Mz",
+                                                        "order": 1,
+                                                        "option": "Next",
+                                                        "isLeaf": true
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }, "___αssεts___": [{"key":"δ-Kq9woK000a","relativePath":"./δ steps/δ-Kq9woK000a.tsstp"},{"key":"δ-KqA6eq00J1","relativePath":"./δ steps/δ-KqA6eq00J1.tsstp"},{"key":"δ-KqEcWz00Do","relativePath":"./δ steps/δ-KqEcWz00Do.tsstp"},{"key":"δ-KqEjdC00ak","relativePath":"./δ steps/δ-KqEjdC00ak.tsstp"},{"key":"δ-KqEq2E01bN","relativePath":"./δ steps/δ-KqEq2E01bN.tsstp"},{"key":"δ-KqEwXk01Mz","relativePath":"./δ steps/δ-KqEwXk01Mz.tsstp"},{"key":"δ-KtSGXV00Qa","relativePath":"./δ steps/δ-KtSGXV00Qa.tsstp"}]}

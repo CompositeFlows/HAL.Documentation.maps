@@ -1,0 +1,170 @@
+
+
+¬cell-url: ../Overview/Glossary.md#cell
+¬cell-link-D: ({{cell-url}})
+¬cell-link: [Cell]{{cell-link-D}}
+
+¬controller-url: ../Overview/Glossary.md#controller
+¬controller-link-D: ({{controller-url}})
+¬controller-link: [Controller]{{controller-link-D}}
+¬controller-lc-link: [controller]{{controller-link-D}}
+¬controllers-link: [Controllers]{{controller-link-D}}
+
+¬mechanism-url: ../Overview/Glossary.md#mechanism
+¬mechanism-link-D: ({{mechanism-url}})
+¬mechanism-link: [Mechanism]{{mechanism-link-D}}
+¬mechanisms-link: [Mechanisms]{{mechanism-link-D}}
+
+¬manipulator-url: ../Overview/Glossary.md#manipulator
+¬manipulator-link-D: ({{manipulator-url}})
+¬manipulator-link: [Robot]{{manipulator-link-D}}
+
+¬end-effector-url: ../Overview/Glossary.md#end-effector
+¬end-effector-link-D: ({{end-effector-url}})
+¬end-effector-link: [Tool]{{end-effector-link-D}}
+
+¬positioner-url: ../Overview/Glossary.md#positioner
+¬positioner-link-D: ({{positioner-url}})
+¬positioner-ea-link: [External Axes]{{positioner-link-D}}
+¬positioner-link: [Positioner]{{positioner-link-D}}
+¬positioners-link: [Positioners]{{positioner-link-D}}
+
+¬joint-url: ../Overview/Glossary.md#joint
+¬joint-link-D: ({{joint-url}})
+¬joint-link: [Joint]{{joint-link-D}}
+¬joints-link: [Joints]{{joint-link-D}}
+
+¬joint-mapping-url: ../Overview/Glossary.md#joint-mapping
+¬joint-mapping-link: [Joint Mappings]({{joint-mapping-url}})
+
+¬connection-url: ../Overview/Glossary.md#connection
+¬connection-link-D: ({{connection-url}})
+¬connection-link: [Connection]{{connection-link-D}}
+¬connections-link: [Connections]{{connection-link-D}}
+
+¬endpoint-url: ../Overview/Glossary.md#endpoint
+¬endpoint-link-D: ({{endpoint-url}})
+¬endpoint-link: [Endpoint]{{endpoint-link-D}}
+¬endpoints-link: [Endpoints]{{endpoint-link-D}}
+¬endpoint-tcp-link: [TCP]{{endpoint-link-D}}
+
+¬part-url: ../Overview/Glossary.md#part
+¬part-link-D: ({{part-url}})
+¬part-link: [Part]{{part-link-D}}
+¬parts-link: [Parts]{{part-link-D}}
+
+¬reference-url: ../Overview/Glossary.md#reference
+¬reference-link-D: ({{reference-url}})
+¬reference-link: [Reference]{{reference-link-D}}
+¬references-link: [References]{{reference-link-D}}
+
+¬signal-url: ../Overview/Glossary.md#signal
+¬signal-link-D: ({{signal-url}})
+¬signal-link: [Signal]{{signal-link-D}}
+¬signals-link: [Signals]{{signal-link-D}}
+¬signal-lc-link: [signals]{{signal-link-D}}
+
+¬procedure-url: ../Overview/Glossary.md#procedure
+¬procedure-link-D: ({{procedure-url}})
+¬procedure-link: [Procedure]{{procedure-link-D}}
+¬procedures-link: [Procedures]{{procedure-link-D}}
+
+¬action-url: ../Overview/Glossary.md#action
+¬action-link-D: ({{action-url}})
+¬action-link: [Action]{{action-link-D}}
+¬actions-link: [Actions]{{action-link-D}}
+
+¬motion-action-url: ../Overview/Glossary.md#motion-action
+¬motion-action-link-D: ({{motion-action-url}})
+¬motion-action-link: [Motion Settings]{{motion-action-link-D}}
+¬motion-action-move-link: [Move]{{motion-action-link-D}}
+¬motion-action-moves-link: [Moves]{{motion-action-link-D}}
+¬motion-action-motion-link: [Motion]{{motion-action-link-D}}
+¬motion-action-motions-link: [Motions]{{motion-action-link-D}}
+
+¬wait-action-url: ../Overview/Glossary.md#wait-action
+¬wait-action-link-D: ({{wait-action-url}})
+¬wait-action-link: [Wait]{{wait-action-link-D}}
+¬wait-action-a-link: [Wait Action]{{wait-action-link-D}}
+
+¬signal-action-url: ../Overview/Glossary.md#signal-action
+¬signal-action-link-D: ({{signal-action-url}})
+¬signal-action-link: [Signal Action]{{signal-action-link-D}}
+¬signal-actions-link: [Signal Actions]{{signal-action-link-D}}
+
+¬custom-action-url: ../Overview/Glossary.md#custom-action
+¬custom-action-link-D: ({{custom-action-url}})
+¬custom-action-link: [Custom Action]{{custom-action-link-D}}
+¬custom-actions-link: [Custom Actions]{{custom-action-link-D}}
+
+¬target-url: ../Overview/Glossary.md#target
+¬target-link-D: ({{target-url}})
+¬target-link: [Target]{{target-link-D}}
+¬targets-link: [Targets]{{target-link-D}}
+
+¬toolpath-url: ../Overview/Glossary.md#toolpath
+¬toolpath-link-D: ({{toolpath-url}})
+¬toolpath-link: [Toolpath]{{toolpath-link-D}}
+¬toolpaths-link: [Toolpaths]{{toolpath-link-D}}
+
+¬joint-space-url: ../Overview/Glossary.md#joint-space
+¬joint-space-link-D: ({{joint-space-url}})
+¬joint-space-link: [Joint Space]{{joint-space-link-D}}
+¬joint-space-lc-link: [Joint space]{{joint-space-link-D}}
+
+¬cartesian-space-url: ../Overview/Glossary.md#cartesian-space
+¬cartesian-space-link-D:({{cartesian-space-url}})
+¬cartesian-space-link: [Cartesian]{{cartesian-space-link-D}}
+
+¬blend-url: ../Overview/Glossary.md#blend
+¬blend-link-D: ({{blend-url}})
+¬blend-link: [Blend]{{blend-link-D}}
+¬blends-link: [Blends]{{blend-link-D}}
+
+¬simulation-url: ../Overview/Glossary.md#73-simulation
+¬simulation-link-D: ({{simulation-url}})
+¬simulation-lc-link: [simulation]{{simulation-link-D}}
+¬simulation-link: [Simulation]{{simulation-link-D}}
+
+¬solving-url: ../Overview/Glossary.md#solving
+¬solving-link-D: ({{solving-url}})
+¬solving-link: [Solve]{{solving-link-D}}
+¬solving-d-link: [Solved]{{solving-link-D}}
+
+¬export-url: ../Overview/Glossary.md#export
+¬export-link-D: ({{export-url}})
+¬export-link: [Export]{{export-link-D}}
+¬export-d-link: [Exported]{{export-link-D}}
+¬export-d-lc-link: [exported]{{export-link-D}}
+
+¬upload-url: ../Overview/Glossary.md#upload
+¬upload-link-D: ({{upload-url}})
+¬upload-link: [Upload]{{upload-link-D}}
+¬uploading-link: [Uploading]{{upload-link-D}}
+
+¬capabilities-url: ../Overview/Glossary.md#capabilities
+¬capabilities-link-D: ({{capabilities-url}})
+¬capabilities-link: [Capabilities]{{capabilities-link-D}}
+
+¬subsystems-url: ../Overview/Glossary.md#subsystems
+¬subsystems-link-D: ({{subsystems-url}})
+¬subsystems-link: [Subsystems]{{subsystems-link-D}}
+
+¬control-url: ../Overview/Glossary.md#74-control
+¬control-link-D: ({{control-url}})
+¬control-link: [Exported]{{control-link-D}}
+
+¬flange-url: ../Overview/Glossary.md#flange
+¬flange-link-D: ({{flange-url}})
+¬flange-link: [Flange]{{flange-link-D}}
+
+¬programming-url: ../Overview/Glossary.md#72-programming
+¬programming-link-D: ({{programming-url}})
+¬programming-link: [programme]{{programming-link-D}}
+
+¬singularity-url: ../Overview/Glossary.md#(kinematic)-singularity
+¬singularity-link-D: ({{singularity-url}})
+¬singularity-link: [Singularities]{{singularity-link-D}}
+
+
+

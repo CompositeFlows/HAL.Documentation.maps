@@ -1,0 +1,9 @@
+¬import gl from "../../../../_shared/glossaryLinks"
+¬import ghl from "../../../../_shared/grasshopperLinks"
+
+
+#### Requirements to follow along:
+
+- {{gl.rhino-link}}, and the HAL Robotics Framework installed on a PC.
+- Basic modelling skills in Rhinoceros 3D and Vector/Plane manipulation skills in Grasshopper will greatly help preparing your own {{gl.positioner-link}} model.
+- Reading or watching the [Create a Multi-Part Tool]{{ghl.grasshopper-multi-part-tool-link-D}} tutorial is highly recommended as this tutorial builds on some of its learnings.

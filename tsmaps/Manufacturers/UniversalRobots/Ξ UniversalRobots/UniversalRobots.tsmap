@@ -1,0 +1,93 @@
+{
+    "key": "KnGtVm02Ax  ",
+    "token": "Universalrobots",
+    "name": "UniversalRobots",
+    "created": "2024-09-08T11:52:03.742Z",
+    "list": true,
+    "publishFileName": "Contents",
+    "iText": "Link to 'UniversalRobots'",
+    "___rΩΩt___": {
+        "key": "KnGyVY010A",
+        "sharedAssetKey": "Kocq0q01Xr",
+        "nodes": [
+            {
+                "key": "KnH0Re004d",
+                "order": 1,
+                "option": "Next",
+                "nodes": [
+                    {
+                        "key": "KnH5Kz02Na",
+                        "order": 1,
+                        "option": "Next",
+                        "sharedAssetKey": "Kp2yO301O4",
+                        "nodes": [
+                            {
+                                "key": "KnHOWg0113",
+                                "order": 1,
+                                "option": "Next",
+                                "nodes": [
+                                    {
+                                        "key": "KnHTl901cv",
+                                        "order": 1,
+                                        "option": "Next",
+                                        "sharedAssetKey": "Kp8V4U022O",
+                                        "nodes": [
+                                            {
+                                                "key": "KnHXjO00Fh",
+                                                "order": 1,
+                                                "option": "Next",
+                                                "nodes": [
+                                                    {
+                                                        "key": "Kp8khM02RN",
+                                                        "order": 1,
+                                                        "option": "Next",
+                                                        "sharedAssetKey": "KpBcfy00Ja",
+                                                        "nodes": [
+                                                            {
+                                                                "key": "KnHgTu028t",
+                                                                "order": 1,
+                                                                "option": "Next",
+                                                                "nodes": [
+                                                                    {
+                                                                        "key": "KnHlQc00ND",
+                                                                        "order": 1,
+                                                                        "option": "Next",
+                                                                        "nodes": [
+                                                                            {
+                                                                                "key": "KnHoPX02Sr",
+                                                                                "order": 1,
+                                                                                "option": "Next",
+                                                                                "nodes": [
+                                                                                    {
+                                                                                        "key": "KnHxAC01eX",
+                                                                                        "order": 1,
+                                                                                        "option": "Next",
+                                                                                        "nodes": [
+                                                                                            {
+                                                                                                "key": "KnHyrv00ch",
+                                                                                                "order": 1,
+                                                                                                "option": "Next",
+                                                                                                "isLeaf": true
+                                                                                            }
+                                                                                        ]
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }, "___αssεts___": [{"key":"Kocq0q01Xr","relativePath":"../../_shared/titleContents.tsstp","isShared":true},{"key":"δ-KnH0Re004d","relativePath":"./δ steps/δ-KnH0Re004d.tsstp"},{"key":"Kp2yO301O4","relativePath":"../../_shared/controllerOptions.tsstp","isShared":true},{"key":"δ-KnHOWg0113","relativePath":"./δ steps/δ-KnHOWg0113.tsstp"},{"key":"Kp8V4U022O","relativePath":"../../_shared/uploadingCode.tsstp","isShared":true},{"key":"δ-KnHXjO00Fh","relativePath":"./δ steps/δ-KnHXjO00Fh.tsstp"},{"key":"δ-KnHgTu028t","relativePath":"./δ steps/δ-KnHgTu028t.tsstp"},{"key":"KpBcfy00Ja","relativePath":"../../_shared/remoteInstructionList.tsstp","isShared":true},{"key":"δ-KnHlQc00ND","relativePath":"./δ steps/δ-KnHlQc00ND.tsstp"},{"key":"δ-KnHoPX02Sr","relativePath":"./δ steps/δ-KnHoPX02Sr.tsstp"},{"key":"δ-KnHxAC01eX","relativePath":"./δ steps/δ-KnHxAC01eX.tsstp"},{"key":"δ-KnHyrv00ch","relativePath":"./δ steps/δ-KnHyrv00ch.tsstp"}]}

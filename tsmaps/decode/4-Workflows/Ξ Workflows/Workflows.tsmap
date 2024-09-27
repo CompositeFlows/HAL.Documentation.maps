@@ -1,0 +1,106 @@
+{
+    "key": "Kv6RQY00Lj  ",
+    "token": "Workflows",
+    "name": "Workflows",
+    "created": "2024-09-09T20:00:43.194Z",
+    "list": true,
+    "publishFileName": "Contents",
+    "iText": "Link to 'Workflows'",
+    "___rΩΩt___": {
+        "key": "Kv6Sqd02C1",
+        "nodes": [
+            {
+                "key": "KvuGCI02VH",
+                "order": 1,
+                "option": "Next",
+                "nodes": [
+                    {
+                        "key": "KvuITg01eI",
+                        "order": 1,
+                        "option": "Next",
+                        "sharedAssetKey": "KvvJdR01jb",
+                        "nodes": [
+                            {
+                                "key": "KvvJRl016G",
+                                "order": 1,
+                                "option": "Next",
+                                "nodes": [
+                                    {
+                                        "key": "KvvLjR028Q",
+                                        "order": 1,
+                                        "option": "Next",
+                                        "nodes": [
+                                            {
+                                                "key": "KvvOdy01Bl",
+                                                "order": 1,
+                                                "option": "Next",
+                                                "sharedAssetKey": "KvvYOe00zp",
+                                                "nodes": [
+                                                    {
+                                                        "key": "KvvY8X00c0",
+                                                        "order": 1,
+                                                        "option": "Next",
+                                                        "nodes": [
+                                                            {
+                                                                "key": "KvvhFc01n2",
+                                                                "order": 1,
+                                                                "option": "Next",
+                                                                "nodes": [
+                                                                    {
+                                                                        "key": "Kvvipt00wS",
+                                                                        "order": 1,
+                                                                        "option": "Next",
+                                                                        "nodes": [
+                                                                            {
+                                                                                "key": "Kvvmf100Uh",
+                                                                                "order": 1,
+                                                                                "option": "Next",
+                                                                                "nodes": [
+                                                                                    {
+                                                                                        "key": "KvvtyQ02K8",
+                                                                                        "order": 1,
+                                                                                        "option": "Next",
+                                                                                        "sharedAssetKey": "Kvvx2q01pN",
+                                                                                        "nodes": [
+                                                                                            {
+                                                                                                "key": "Kvw06s00d8",
+                                                                                                "order": 1,
+                                                                                                "option": "Next",
+                                                                                                "nodes": [
+                                                                                                    {
+                                                                                                        "key": "Kvw3zD00yL",
+                                                                                                        "order": 1,
+                                                                                                        "option": "Next",
+                                                                                                        "nodes": [
+                                                                                                            {
+                                                                                                                "key": "Kvw6Gr0266",
+                                                                                                                "order": 1,
+                                                                                                                "option": "Next",
+                                                                                                                "isLeaf": true
+                                                                                                            }
+                                                                                                        ]
+                                                                                                    }
+                                                                                                ]
+                                                                                            }
+                                                                                        ]
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }, "___αssεts___": [{"key":"δ-Kv6Sqd02C1","relativePath":"./δ steps/δ-Kv6Sqd02C1.tsstp"},{"key":"δ-KvuGCI02VH","relativePath":"./δ steps/δ-KvuGCI02VH.tsstp"},{"key":"KvvJdR01jb","relativePath":"../../_shared/Requirements.tsstp","isShared":true},{"key":"δ-KvvJRl016G","relativePath":"./δ steps/δ-KvvJRl016G.tsstp"},{"key":"δ-KvvLjR028Q","relativePath":"./δ steps/δ-KvvLjR028Q.tsstp"},{"key":"KvvYOe00zp","relativePath":"../../_shared/Requirements.tsstp","isShared":true},{"key":"δ-KvvY8X00c0","relativePath":"./δ steps/δ-KvvY8X00c0.tsstp"},{"key":"δ-KvvhFc01n2","relativePath":"./δ steps/δ-KvvhFc01n2.tsstp"},{"key":"δ-Kvvipt00wS","relativePath":"./δ steps/δ-Kvvipt00wS.tsstp"},{"key":"δ-Kvvmf100Uh","relativePath":"./δ steps/δ-Kvvmf100Uh.tsstp"},{"key":"Kvvx2q01pN","relativePath":"../../_shared/Requirements.tsstp","isShared":true},{"key":"δ-Kvw06s00d8","relativePath":"./δ steps/δ-Kvw06s00d8.tsstp"},{"key":"δ-Kvw3zD00yL","relativePath":"./δ steps/δ-Kvw3zD00yL.tsstp"},{"key":"δ-Kvw6Gr0266","relativePath":"./δ steps/δ-Kvw6Gr0266.tsstp"}]}
