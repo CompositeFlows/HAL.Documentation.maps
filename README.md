@@ -20,6 +20,8 @@ The vscode extension Docs Assembler can be downloaded here:
 [vscode marketplace - docs assembler](https://marketplace.visualstudio.com/items?itemName=netoftrees.documentation-assembler)  
 [team@netoftrees.com](mailto:team@netoftrees.com)  
 [www.netoftrees.com](https://www.netoftrees.com/)
+<br>
+
 
 
 [<img src="Walkthrough-thumbnail.png">](https://vimeo.com/1013352380?share=copy#t=0)
