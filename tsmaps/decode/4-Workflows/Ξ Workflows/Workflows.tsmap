@@ -5,6 +5,7 @@
     "created": "2024-09-09T20:00:43.194Z",
     "list": true,
     "publishFileName": "Contents",
+    "cachedPath": "c:/GitHub/HAL.Documentation.maps/tsmaps/decode/4-Workflows/Ξ Workflows/Workflows.tsmap",
     "iText": "Link to 'Workflows'",
     "___rΩΩt___": {
         "key": "Kv6Sqd02C1",
@@ -103,4 +104,66 @@
                 ]
             }
         ]
-    }, "___αssεts___": [{"key":"δ-Kv6Sqd02C1","relativePath":"./δ steps/δ-Kv6Sqd02C1.tsstp"},{"key":"δ-KvuGCI02VH","relativePath":"./δ steps/δ-KvuGCI02VH.tsstp"},{"key":"KvvJdR01jb","relativePath":"../../_shared/Requirements.tsstp","isShared":true},{"key":"δ-KvvJRl016G","relativePath":"./δ steps/δ-KvvJRl016G.tsstp"},{"key":"δ-KvvLjR028Q","relativePath":"./δ steps/δ-KvvLjR028Q.tsstp"},{"key":"KvvYOe00zp","relativePath":"../../_shared/Requirements.tsstp","isShared":true},{"key":"δ-KvvY8X00c0","relativePath":"./δ steps/δ-KvvY8X00c0.tsstp"},{"key":"δ-KvvhFc01n2","relativePath":"./δ steps/δ-KvvhFc01n2.tsstp"},{"key":"δ-Kvvipt00wS","relativePath":"./δ steps/δ-Kvvipt00wS.tsstp"},{"key":"δ-Kvvmf100Uh","relativePath":"./δ steps/δ-Kvvmf100Uh.tsstp"},{"key":"Kvvx2q01pN","relativePath":"../../_shared/Requirements.tsstp","isShared":true},{"key":"δ-Kvw06s00d8","relativePath":"./δ steps/δ-Kvw06s00d8.tsstp"},{"key":"δ-Kvw3zD00yL","relativePath":"./δ steps/δ-Kvw3zD00yL.tsstp"},{"key":"δ-Kvw6Gr0266","relativePath":"./δ steps/δ-Kvw6Gr0266.tsstp"}]}
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-Kv6Sqd02C1",
+            "relativePath": "./δ steps/δ-Kv6Sqd02C1.tsstp"
+        },
+        {
+            "key": "δ-KvuGCI02VH",
+            "relativePath": "./δ steps/δ-KvuGCI02VH.tsstp"
+        },
+        {
+            "key": "KvvJdR01jb",
+            "relativePath": "../../_shared/Requirements.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "δ-KvvJRl016G",
+            "relativePath": "./δ steps/δ-KvvJRl016G.tsstp"
+        },
+        {
+            "key": "δ-KvvLjR028Q",
+            "relativePath": "./δ steps/δ-KvvLjR028Q.tsstp"
+        },
+        {
+            "key": "KvvYOe00zp",
+            "relativePath": "../../_shared/Requirements.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "δ-KvvY8X00c0",
+            "relativePath": "./δ steps/δ-KvvY8X00c0.tsstp"
+        },
+        {
+            "key": "δ-KvvhFc01n2",
+            "relativePath": "./δ steps/δ-KvvhFc01n2.tsstp"
+        },
+        {
+            "key": "δ-Kvvipt00wS",
+            "relativePath": "./δ steps/δ-Kvvipt00wS.tsstp"
+        },
+        {
+            "key": "δ-Kvvmf100Uh",
+            "relativePath": "./δ steps/δ-Kvvmf100Uh.tsstp"
+        },
+        {
+            "key": "Kvvx2q01pN",
+            "relativePath": "../../_shared/Requirements.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "δ-Kvw06s00d8",
+            "relativePath": "./δ steps/δ-Kvw06s00d8.tsstp"
+        },
+        {
+            "key": "δ-Kvw3zD00yL",
+            "relativePath": "./δ steps/δ-Kvw3zD00yL.tsstp"
+        },
+        {
+            "key": "δ-Kvw6Gr0266",
+            "relativePath": "./δ steps/δ-Kvw6Gr0266.tsstp"
+        }
+    ]
+}
