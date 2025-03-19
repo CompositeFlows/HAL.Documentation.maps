@@ -1,5 +1,5 @@
 {
-    "key": "KuD99m00Si  ",
+    "key": "cQS2Iq026o  ",
     "token": "Advancedprogramming",
     "name": "AdvancedProgramming",
     "created": "2024-09-09T16:21:04.922Z",
@@ -8,63 +8,63 @@
     "cachedPath": "c:/GitHub/HAL.Documentation.maps/tsmaps/Grasshopper/5-Advanced-Programming/Ξ AdvancedProgramming/AdvancedProgramming.tsmap",
     "iText": "Link to 'AdvancedProgramming'",
     "___rΩΩt___": {
-        "key": "KuDBAU01fU",
+        "key": "cQS3Zt01zR",
         "nodes": [
             {
-                "key": "KufdYV01oI",
+                "key": "cQS8Dc00ex",
                 "order": 1,
                 "option": "Next",
                 "nodes": [
                     {
-                        "key": "Kufl0g021p",
+                        "key": "cQS9rq00jj",
                         "order": 1,
                         "option": "Next",
-                        "sharedAssetKey": "KuftkE00Qf",
+                        "sharedAssetKey": "cQSBmu0232",
                         "nodes": [
                             {
-                                "key": "KuftP800iO",
+                                "key": "cQSBPg02TG",
                                 "order": 1,
                                 "option": "Next",
                                 "nodes": [
                                     {
-                                        "key": "Kufw5U01DI",
+                                        "key": "cQSEXG01zj",
                                         "order": 1,
                                         "option": "Next",
                                         "nodes": [
                                             {
-                                                "key": "Kug1XY02Zu",
+                                                "key": "cQSFyh00dA",
                                                 "order": 1,
                                                 "option": "Next",
-                                                "sharedAssetKey": "Kug4uL00RG",
+                                                "sharedAssetKey": "cQSHzi02KN",
                                                 "nodes": [
                                                     {
-                                                        "key": "Kug4e700wy",
+                                                        "key": "cQSHjj02OX",
                                                         "order": 1,
                                                         "option": "Next",
                                                         "nodes": [
                                                             {
-                                                                "key": "Kug7bV01ru",
+                                                                "key": "cQSKU800VL",
                                                                 "order": 1,
                                                                 "option": "Next",
                                                                 "nodes": [
                                                                     {
-                                                                        "key": "KugDPw01ka",
+                                                                        "key": "cQSMzr01l7",
                                                                         "order": 1,
                                                                         "option": "Next",
                                                                         "nodes": [
                                                                             {
-                                                                                "key": "KugINM02Fz",
+                                                                                "key": "cQSOku02aw",
                                                                                 "order": 1,
                                                                                 "option": "Next",
                                                                                 "nodes": [
                                                                                     {
-                                                                                        "key": "KugNOc01QY",
+                                                                                        "key": "cQSQXV01Jn",
                                                                                         "order": 1,
                                                                                         "option": "Next",
-                                                                                        "sharedAssetKey": "KugQ8N017O",
+                                                                                        "sharedAssetKey": "cQSSkc00w3",
                                                                                         "nodes": [
                                                                                             {
-                                                                                                "key": "KugPqg02IR",
+                                                                                                "key": "cQSSQd027V",
                                                                                                 "order": 1,
                                                                                                 "option": "Next",
                                                                                                 "isLeaf": true
@@ -93,55 +93,60 @@
     },
     "___αssεts___": [
         {
-            "key": "δ-KuDBAU01fU",
-            "relativePath": "./δ steps/δ-KuDBAU01fU.tsstp"
+            "key": "δ-cQS3Zt01zR",
+            "relativePath": "./δ steps/δ-cQS3Zt01zR.tsstp"
         },
         {
-            "key": "δ-KufdYV01oI",
-            "relativePath": "./δ steps/δ-KufdYV01oI.tsstp"
+            "key": "δ-cQS8Dc00ex",
+            "relativePath": "./δ steps/δ-cQS8Dc00ex.tsstp"
         },
         {
-            "key": "KuftkE00Qf",
-            "relativePath": "../../_shared/Requirements.tsstp",
+            "key": "cQSBmu0232",
+            "relativePath": "../../../Grasshopper/_shared/Requirements.tsstp",
             "isShared": true
         },
         {
-            "key": "δ-KuftP800iO",
-            "relativePath": "./δ steps/δ-KuftP800iO.tsstp"
+            "key": "δ-cQSBPg02TG",
+            "relativePath": "./δ steps/δ-cQSBPg02TG.tsstp"
         },
         {
-            "key": "δ-Kufw5U01DI",
-            "relativePath": "./δ steps/δ-Kufw5U01DI.tsstp"
+            "key": "δ-cQSEXG01zj",
+            "relativePath": "./δ steps/δ-cQSEXG01zj.tsstp"
         },
         {
-            "key": "Kug4uL00RG",
-            "relativePath": "../../_shared/Requirements.tsstp",
+            "key": "cQSHzi02KN",
+            "relativePath": "../../../Grasshopper/_shared/Requirements.tsstp",
             "isShared": true
         },
         {
-            "key": "δ-Kug4e700wy",
-            "relativePath": "./δ steps/δ-Kug4e700wy.tsstp"
+            "key": "δ-cQSHjj02OX",
+            "relativePath": "./δ steps/δ-cQSHjj02OX.tsstp"
         },
         {
-            "key": "δ-Kug7bV01ru",
-            "relativePath": "./δ steps/δ-Kug7bV01ru.tsstp"
+            "key": "δ-cQSKU800VL",
+            "relativePath": "./δ steps/δ-cQSKU800VL.tsstp"
         },
         {
-            "key": "δ-KugDPw01ka",
-            "relativePath": "./δ steps/δ-KugDPw01ka.tsstp"
+            "key": "δ-cQSMzr01l7",
+            "relativePath": "./δ steps/δ-cQSMzr01l7.tsstp"
         },
         {
-            "key": "δ-KugINM02Fz",
-            "relativePath": "./δ steps/δ-KugINM02Fz.tsstp"
+            "key": "δ-cQSOku02aw",
+            "relativePath": "./δ steps/δ-cQSOku02aw.tsstp"
         },
         {
-            "key": "KugQ8N017O",
-            "relativePath": "../../_shared/Requirements.tsstp",
+            "key": "cQSSkc00w3",
+            "relativePath": "../../../Grasshopper/_shared/Requirements.tsstp",
             "isShared": true
         },
         {
-            "key": "δ-KugPqg02IR",
-            "relativePath": "./δ steps/δ-KugPqg02IR.tsstp"
+            "key": "δ-cQSSQd027V",
+            "relativePath": "./δ steps/δ-cQSSQd027V.tsstp"
         }
-    ]
+    ],
+    "___εdit___": {
+        "id": "cpqiPm1jD",
+        "editorID": "da_() => {\n        const extensions = vscode.extensions;\n        const docsAssember = extensions.getExtension('netoftrees.documentation-assembler');\n        if (docsAssember) {\n            return docsAssember.packageJSON.version;\n        }\n        return null;\n    }",
+        "ticks": 1742324804542
+    }
 }

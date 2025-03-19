@@ -1,19 +1,25 @@
 {
-    "key": "KjLFiD02Vk  ",
+    "key": "cLjk7I028U  ",
     "token": "Glossary",
     "name": "Glossary",
     "created": "2024-09-07T19:44:17.049Z",
     "list": true,
+    "publishFileName": "Glossary",
     "cachedPath": "c:/GitHub/HAL.Documentation.maps/tsmaps/Overview/Ξ Glossary/Glossary.tsmap",
     "iText": "Link to 'Glossary'",
     "___rΩΩt___": {
-        "key": "KjLHmj01DW",
+        "key": "cLjmML01Ka",
         "isLeaf": true
     },
     "___αssεts___": [
         {
-            "key": "δ-KjLHmj01DW",
-            "relativePath": "./δ steps/δ-KjLHmj01DW.tsstp"
+            "key": "δ-cLjmML01Ka",
+            "relativePath": "./δ steps/δ-cLjmML01Ka.tsstp"
         }
-    ]
+    ],
+    "___εdit___": {
+        "id": "cpodyF1vD",
+        "editorID": "da_() => {\n        const extensions = vscode.extensions;\n        const docsAssember = extensions.getExtension('netoftrees.documentation-assembler');\n        if (docsAssember) {\n            return docsAssember.packageJSON.version;\n        }\n        return null;\n    }",
+        "ticks": 1742324310803
+    }
 }

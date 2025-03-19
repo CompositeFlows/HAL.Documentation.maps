@@ -1,5 +1,5 @@
 {
-    "key": "KnAPdY021h  ",
+    "key": "cLtcaB00NE  ",
     "token": "Abb",
     "name": "ABB",
     "created": "2024-09-08T11:26:18.936Z",
@@ -8,54 +8,54 @@
     "cachedPath": "c:/GitHub/HAL.Documentation.maps/tsmaps/Manufacturers/ABB/Ξ ABB/ABB.tsmap",
     "iText": "Link to 'ABB'",
     "___rΩΩt___": {
-        "key": "KnAQz102Ee",
-        "sharedAssetKey": "KoKRYU00qR",
+        "key": "cLtfAU02Vg",
+        "sharedAssetKey": "cLuNr201UO",
         "nodes": [
             {
-                "key": "KoKRF40293",
+                "key": "cLuMfT02Tb",
                 "order": 1,
                 "option": "Next",
                 "nodes": [
                     {
-                        "key": "KpF99P006m",
+                        "key": "cLucOp00V3",
                         "order": 1,
                         "option": "Next",
-                        "sharedAssetKey": "KpFDLM01hq",
+                        "sharedAssetKey": "cLufLU00Ei",
                         "nodes": [
                             {
-                                "key": "KpFBdO02Ob",
+                                "key": "cLuezq00Yj",
                                 "order": 1,
                                 "option": "Next",
                                 "nodes": [
                                     {
-                                        "key": "KpFMxk00n6",
+                                        "key": "cLujQq005I",
                                         "order": 1,
                                         "option": "Next",
-                                        "sharedAssetKey": "KpFQ6002K9",
+                                        "sharedAssetKey": "cLvAHC01fm",
                                         "nodes": [
                                             {
-                                                "key": "KpFOsi01PO",
+                                                "key": "cLv9pn00s7",
                                                 "order": 1,
                                                 "option": "Next",
                                                 "nodes": [
                                                     {
-                                                        "key": "KpFX0t01d4",
+                                                        "key": "cLvDBG024i",
                                                         "order": 1,
                                                         "option": "Next",
-                                                        "sharedAssetKey": "KpFat301ZA",
+                                                        "sharedAssetKey": "cLvby400bs",
                                                         "nodes": [
                                                             {
-                                                                "key": "KpFZci01Jt",
+                                                                "key": "cLvJci00QF",
                                                                 "order": 1,
                                                                 "option": "Next",
                                                                 "nodes": [
                                                                     {
-                                                                        "key": "KpGKWy008j",
+                                                                        "key": "cLvMfG00hb",
                                                                         "order": 1,
                                                                         "option": "Next",
                                                                         "nodes": [
                                                                             {
-                                                                                "key": "KpGQrE01ds",
+                                                                                "key": "cLvi1J01fK",
                                                                                 "order": 1,
                                                                                 "option": "Next",
                                                                                 "isLeaf": true
@@ -80,48 +80,53 @@
     },
     "___αssεts___": [
         {
-            "key": "KoKRYU00qR",
-            "relativePath": "../../_shared/titleContents.tsstp",
+            "key": "cLuNr201UO",
+            "relativePath": "../../../Manufacturers/_shared/titleContents.tsstp",
             "isShared": true
         },
         {
-            "key": "δ-KoKRF40293",
-            "relativePath": "./δ steps/δ-KoKRF40293.tsstp"
+            "key": "δ-cLuMfT02Tb",
+            "relativePath": "./δ steps/δ-cLuMfT02Tb.tsstp"
         },
         {
-            "key": "KpFDLM01hq",
-            "relativePath": "../../_shared/controllerOptions.tsstp",
+            "key": "cLufLU00Ei",
+            "relativePath": "../../../Manufacturers/_shared/controllerOptions.tsstp",
             "isShared": true
         },
         {
-            "key": "δ-KpFBdO02Ob",
-            "relativePath": "./δ steps/δ-KpFBdO02Ob.tsstp"
+            "key": "δ-cLuezq00Yj",
+            "relativePath": "./δ steps/δ-cLuezq00Yj.tsstp"
         },
         {
-            "key": "KpFQ6002K9",
-            "relativePath": "../../_shared/uploadingCode.tsstp",
+            "key": "cLvAHC01fm",
+            "relativePath": "../../../Manufacturers/_shared/uploadingCode.tsstp",
             "isShared": true
         },
         {
-            "key": "δ-KpFOsi01PO",
-            "relativePath": "./δ steps/δ-KpFOsi01PO.tsstp"
+            "key": "δ-cLv9pn00s7",
+            "relativePath": "./δ steps/δ-cLv9pn00s7.tsstp"
         },
         {
-            "key": "KpFat301ZA",
-            "relativePath": "../../_shared/remoteInstructionList.tsstp",
+            "key": "cLvby400bs",
+            "relativePath": "../../../Manufacturers/_shared/remoteInstructionList.tsstp",
             "isShared": true
         },
         {
-            "key": "δ-KpFZci01Jt",
-            "relativePath": "./δ steps/δ-KpFZci01Jt.tsstp"
+            "key": "δ-cLvJci00QF",
+            "relativePath": "./δ steps/δ-cLvJci00QF.tsstp"
         },
         {
-            "key": "δ-KpGKWy008j",
-            "relativePath": "./δ steps/δ-KpGKWy008j.tsstp"
+            "key": "δ-cLvMfG00hb",
+            "relativePath": "./δ steps/δ-cLvMfG00hb.tsstp"
         },
         {
-            "key": "δ-KpGQrE01ds",
-            "relativePath": "./δ steps/δ-KpGQrE01ds.tsstp"
+            "key": "δ-cLvi1J01fK",
+            "relativePath": "./δ steps/δ-cLvi1J01fK.tsstp"
         }
-    ]
+    ],
+    "___εdit___": {
+        "id": "cpprqk0Qz",
+        "editorID": "da_() => {\n        const extensions = vscode.extensions;\n        const docsAssember = extensions.getExtension('netoftrees.documentation-assembler');\n        if (docsAssember) {\n            return docsAssember.packageJSON.version;\n        }\n        return null;\n    }",
+        "ticks": 1742324602482
+    }
 }

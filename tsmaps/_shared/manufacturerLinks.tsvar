@@ -1,9 +1,9 @@
 
 
-¬manufacturer-documentation-url: ../Manufacturers/Contents.md
+¬manufacturer-documentation-url: ../Manufacturers/Ξ Manufacturers/Manufacturers.tsmap
 ¬manufacturer-documentation-link: [manufacturer-specific documentation]({{manufacturer-documentation-url}})
 
-¬abb-doc-url: ../Manufacturers/ABB/Contents.md
+¬abb-doc-url: ../Manufacturers/ABB/Ξ ABB/ABB.tsmap
 ¬abb-doc-link: [ABB]({{abb-doc-url}})
 
 ¬doosan-doc-url: ../Manufacturers/Doosan/Contents.md
@@ -27,7 +27,7 @@
 ¬staubli-doc-url: ../Manufacturers/Staubli/Contents.md
 ¬staubli-doc-link: [Stäubli]({{staubli-doc-url}})
 
-¬universalRobots-doc-url: ../Manufacturers/UniversalRobots/Contents.md
+¬universalRobots-doc-url: ../Manufacturers/UniversalRobots/Ξ UniversalRobots/UniversalRobots.tsmap
 ¬universalRobots-doc-link: [Universal Robots]({{universalRobots-doc-url}})
 
 ¬yaskawa-doc-url: ../Manufacturers/Yaskawa/Contents.md

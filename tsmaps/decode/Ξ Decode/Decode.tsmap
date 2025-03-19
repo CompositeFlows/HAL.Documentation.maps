@@ -1,5 +1,5 @@
 {
-    "key": "Kv6GOs01Og  ",
+    "key": "cQXU6R01TZ  ",
     "token": "Decode",
     "name": "Decode",
     "created": "2024-09-09T20:00:00.807Z",
@@ -8,30 +8,30 @@
     "cachedPath": "c:/GitHub/HAL.Documentation.maps/tsmaps/decode/Ξ Decode/Decode.tsmap",
     "iText": "Link to 'Decode'",
     "___rΩΩt___": {
-        "key": "Kv6Hb8010m",
+        "key": "cQXVOp00qG",
         "nodes": [
             {
-                "key": "KvtSqb01UZ",
+                "key": "cQXYrC01cz",
                 "order": 1,
                 "option": "Next",
                 "nodes": [
                     {
-                        "key": "KvtYof00Fq",
+                        "key": "cQXaFF02b2",
                         "order": 1,
                         "option": "Next",
                         "nodes": [
                             {
-                                "key": "KvtZWD00oT",
+                                "key": "cQXbV400iK",
                                 "order": 1,
                                 "option": "Next",
                                 "nodes": [
                                     {
-                                        "key": "KvtcQr01bU",
+                                        "key": "cQYAjT012Z",
                                         "order": 1,
                                         "option": "Next",
                                         "nodes": [
                                             {
-                                                "key": "KvteNu00QP",
+                                                "key": "cQYCC700Cg",
                                                 "order": 1,
                                                 "option": "Next",
                                                 "isLeaf": true
@@ -48,28 +48,33 @@
     },
     "___αssεts___": [
         {
-            "key": "δ-Kv6Hb8010m",
-            "relativePath": "./δ steps/δ-Kv6Hb8010m.tsstp"
+            "key": "δ-cQXVOp00qG",
+            "relativePath": "./δ steps/δ-cQXVOp00qG.tsstp"
         },
         {
-            "key": "δ-KvtSqb01UZ",
-            "relativePath": "./δ steps/δ-KvtSqb01UZ.tsstp"
+            "key": "δ-cQXYrC01cz",
+            "relativePath": "./δ steps/δ-cQXYrC01cz.tsstp"
         },
         {
-            "key": "δ-KvtYof00Fq",
-            "relativePath": "./δ steps/δ-KvtYof00Fq.tsstp"
+            "key": "δ-cQXaFF02b2",
+            "relativePath": "./δ steps/δ-cQXaFF02b2.tsstp"
         },
         {
-            "key": "δ-KvtZWD00oT",
-            "relativePath": "./δ steps/δ-KvtZWD00oT.tsstp"
+            "key": "δ-cQXbV400iK",
+            "relativePath": "./δ steps/δ-cQXbV400iK.tsstp"
         },
         {
-            "key": "δ-KvtcQr01bU",
-            "relativePath": "./δ steps/δ-KvtcQr01bU.tsstp"
+            "key": "δ-cQYAjT012Z",
+            "relativePath": "./δ steps/δ-cQYAjT012Z.tsstp"
         },
         {
-            "key": "δ-KvteNu00QP",
-            "relativePath": "./δ steps/δ-KvteNu00QP.tsstp"
+            "key": "δ-cQYCC700Cg",
+            "relativePath": "./δ steps/δ-cQYCC700Cg.tsstp"
         }
-    ]
+    ],
+    "___εdit___": {
+        "id": "cptY1P0Qz",
+        "editorID": "da_() => {\n        const extensions = vscode.extensions;\n        const docsAssember = extensions.getExtension('netoftrees.documentation-assembler');\n        if (docsAssember) {\n            return docsAssember.packageJSON.version;\n        }\n        return null;\n    }",
+        "ticks": 1742325479575
+    }
 }

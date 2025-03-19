@@ -1,5 +1,5 @@
 {
-    "key": "KuiU0z00aM  ",
+    "key": "cQSuwS01HV  ",
     "token": "Io",
     "name": "IO",
     "created": "2024-09-09T18:25:33.269Z",
@@ -8,47 +8,47 @@
     "cachedPath": "c:/GitHub/HAL.Documentation.maps/tsmaps/Grasshopper/4-IO/Ξ IO/IO.tsmap",
     "iText": "Link to 'IO'",
     "___rΩΩt___": {
-        "key": "KuiVpq01gG",
+        "key": "cQSwAQ0267",
         "nodes": [
             {
-                "key": "Kuil3P02Yr",
+                "key": "cQSzQj01g1",
                 "order": 1,
                 "option": "Next",
                 "nodes": [
                     {
-                        "key": "Kuio8J01ni",
+                        "key": "cQT1Iv00kc",
                         "order": 1,
                         "option": "Next",
-                        "sharedAssetKey": "Kuiqp202S9",
+                        "sharedAssetKey": "cQT3D901EJ",
                         "nodes": [
                             {
-                                "key": "KuiqXz01uN",
+                                "key": "cQT2xA01Uf",
                                 "order": 1,
                                 "option": "Next",
                                 "nodes": [
                                     {
-                                        "key": "Kuisqe00pF",
+                                        "key": "cQT5q201uE",
                                         "order": 1,
                                         "option": "Next",
                                         "nodes": [
                                             {
-                                                "key": "KuivwD020R",
+                                                "key": "cQT7iM02Yq",
                                                 "order": 1,
                                                 "option": "Next",
-                                                "sharedAssetKey": "Kuj5fb00B4",
+                                                "sharedAssetKey": "cQT9B100HB",
                                                 "nodes": [
                                                     {
-                                                        "key": "Kuj42I01xs",
+                                                        "key": "cQT8uj01Sp",
                                                         "order": 1,
                                                         "option": "Next",
                                                         "nodes": [
                                                             {
-                                                                "key": "KujACz02FF",
+                                                                "key": "cQTCab00jK",
                                                                 "order": 1,
                                                                 "option": "Next",
                                                                 "nodes": [
                                                                     {
-                                                                        "key": "KujECe01t3",
+                                                                        "key": "cQTElO02Yg",
                                                                         "order": 1,
                                                                         "option": "Next",
                                                                         "isLeaf": true
@@ -71,42 +71,47 @@
     },
     "___αssεts___": [
         {
-            "key": "δ-KuiVpq01gG",
-            "relativePath": "./δ steps/δ-KuiVpq01gG.tsstp"
+            "key": "δ-cQSwAQ0267",
+            "relativePath": "./δ steps/δ-cQSwAQ0267.tsstp"
         },
         {
-            "key": "δ-Kuil3P02Yr",
-            "relativePath": "./δ steps/δ-Kuil3P02Yr.tsstp"
+            "key": "δ-cQSzQj01g1",
+            "relativePath": "./δ steps/δ-cQSzQj01g1.tsstp"
         },
         {
-            "key": "Kuiqp202S9",
-            "relativePath": "../../_shared/Requirements.tsstp",
+            "key": "cQT3D901EJ",
+            "relativePath": "../../../Grasshopper/_shared/Requirements.tsstp",
             "isShared": true
         },
         {
-            "key": "δ-KuiqXz01uN",
-            "relativePath": "./δ steps/δ-KuiqXz01uN.tsstp"
+            "key": "δ-cQT2xA01Uf",
+            "relativePath": "./δ steps/δ-cQT2xA01Uf.tsstp"
         },
         {
-            "key": "δ-Kuisqe00pF",
-            "relativePath": "./δ steps/δ-Kuisqe00pF.tsstp"
+            "key": "δ-cQT5q201uE",
+            "relativePath": "./δ steps/δ-cQT5q201uE.tsstp"
         },
         {
-            "key": "Kuj5fb00B4",
-            "relativePath": "../../_shared/Requirements.tsstp",
+            "key": "cQT9B100HB",
+            "relativePath": "../../../Grasshopper/_shared/Requirements.tsstp",
             "isShared": true
         },
         {
-            "key": "δ-Kuj42I01xs",
-            "relativePath": "./δ steps/δ-Kuj42I01xs.tsstp"
+            "key": "δ-cQT8uj01Sp",
+            "relativePath": "./δ steps/δ-cQT8uj01Sp.tsstp"
         },
         {
-            "key": "δ-KujACz02FF",
-            "relativePath": "./δ steps/δ-KujACz02FF.tsstp"
+            "key": "δ-cQTCab00jK",
+            "relativePath": "./δ steps/δ-cQTCab00jK.tsstp"
         },
         {
-            "key": "δ-KujECe01t3",
-            "relativePath": "./δ steps/δ-KujECe01t3.tsstp"
+            "key": "δ-cQTElO02Yg",
+            "relativePath": "./δ steps/δ-cQTElO02Yg.tsstp"
         }
-    ]
+    ],
+    "___εdit___": {
+        "id": "cpqwFM0vV",
+        "editorID": "da_() => {\n        const extensions = vscode.extensions;\n        const docsAssember = extensions.getExtension('netoftrees.documentation-assembler');\n        if (docsAssember) {\n            return docsAssember.packageJSON.version;\n        }\n        return null;\n    }",
+        "ticks": 1742324857713
+    }
 }

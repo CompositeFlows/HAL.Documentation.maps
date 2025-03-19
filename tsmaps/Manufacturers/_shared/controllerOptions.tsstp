@@ -17,3 +17,4 @@ a.  Controller - this is essentially a computer to which your {{gl.manipulator-l
 b.  {{gl.capabilities-link}} - these are how we organize what a {{gl.controller-link}} can do and draw parallels between different manufacturers' {{gl.controllers-link}}. _Capabilities_ are things like the ability to {{gl.upload-link}} code to the {{gl.controller-link}} from a PC or the ability to read the values of {{gl.signals-link}} remotely.
 
 c.  {{gl.subsystems-link}} - these are similar to the options you have in your {{gl.controller-link}}. They are the actual software modules that implement different _Capabilities_.
+

@@ -1,6 +1,3 @@
-¬import il from "../../_shared/imageLinks"
-
-
 ## {{_.manufacturerName}}
 
 [0. Tips](#0-tips)
@@ -13,5 +10,3 @@
 
 ---
 
-
-{{il.11Attach-image}}

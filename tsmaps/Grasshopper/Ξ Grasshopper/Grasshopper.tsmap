@@ -1,5 +1,5 @@
 {
-    "key": "Kq9t1400bf  ",
+    "key": "cQQmfY02EO  ",
     "token": "Grasshopper",
     "name": "Grasshopper",
     "created": "2024-09-08T23:43:02.550Z",
@@ -8,35 +8,35 @@
     "cachedPath": "c:/GitHub/HAL.Documentation.maps/tsmaps/Grasshopper/Ξ Grasshopper/Grasshopper.tsmap",
     "iText": "Link to 'Grasshopper'",
     "___rΩΩt___": {
-        "key": "Kq9woK000a",
+        "key": "cQQoxR025w",
         "nodes": [
             {
-                "key": "KtSGXV00Qa",
+                "key": "cQQuZA01TM",
                 "order": 1,
                 "option": "Next",
                 "nodes": [
                     {
-                        "key": "KqA6eq00J1",
+                        "key": "cQQxGE00aU",
                         "order": 1,
                         "option": "Next",
                         "nodes": [
                             {
-                                "key": "KqEcWz00Do",
+                                "key": "cQQye100Mn",
                                 "order": 1,
                                 "option": "Next",
                                 "nodes": [
                                     {
-                                        "key": "KqEjdC00ak",
+                                        "key": "cQR0Il01fF",
                                         "order": 1,
                                         "option": "Next",
                                         "nodes": [
                                             {
-                                                "key": "KqEq2E01bN",
+                                                "key": "cQR21a00HY",
                                                 "order": 1,
                                                 "option": "Next",
                                                 "nodes": [
                                                     {
-                                                        "key": "KqEwXk01Mz",
+                                                        "key": "cQR4BH01jm",
                                                         "order": 1,
                                                         "option": "Next",
                                                         "isLeaf": true
@@ -55,32 +55,37 @@
     },
     "___αssεts___": [
         {
-            "key": "δ-Kq9woK000a",
-            "relativePath": "./δ steps/δ-Kq9woK000a.tsstp"
+            "key": "δ-cQQoxR025w",
+            "relativePath": "./δ steps/δ-cQQoxR025w.tsstp"
         },
         {
-            "key": "δ-KqA6eq00J1",
-            "relativePath": "./δ steps/δ-KqA6eq00J1.tsstp"
+            "key": "δ-cQQuZA01TM",
+            "relativePath": "./δ steps/δ-cQQuZA01TM.tsstp"
         },
         {
-            "key": "δ-KqEcWz00Do",
-            "relativePath": "./δ steps/δ-KqEcWz00Do.tsstp"
+            "key": "δ-cQQxGE00aU",
+            "relativePath": "./δ steps/δ-cQQxGE00aU.tsstp"
         },
         {
-            "key": "δ-KqEjdC00ak",
-            "relativePath": "./δ steps/δ-KqEjdC00ak.tsstp"
+            "key": "δ-cQQye100Mn",
+            "relativePath": "./δ steps/δ-cQQye100Mn.tsstp"
         },
         {
-            "key": "δ-KqEq2E01bN",
-            "relativePath": "./δ steps/δ-KqEq2E01bN.tsstp"
+            "key": "δ-cQR0Il01fF",
+            "relativePath": "./δ steps/δ-cQR0Il01fF.tsstp"
         },
         {
-            "key": "δ-KqEwXk01Mz",
-            "relativePath": "./δ steps/δ-KqEwXk01Mz.tsstp"
+            "key": "δ-cQR21a00HY",
+            "relativePath": "./δ steps/δ-cQR21a00HY.tsstp"
         },
         {
-            "key": "δ-KtSGXV00Qa",
-            "relativePath": "./δ steps/δ-KtSGXV00Qa.tsstp"
+            "key": "δ-cQR4BH01jm",
+            "relativePath": "./δ steps/δ-cQR4BH01jm.tsstp"
         }
-    ]
+    ],
+    "___εdit___": {
+        "id": "cpq7Rp1h9",
+        "editorID": "da_() => {\n        const extensions = vscode.extensions;\n        const docsAssember = extensions.getExtension('netoftrees.documentation-assembler');\n        if (docsAssember) {\n            return docsAssember.packageJSON.version;\n        }\n        return null;\n    }",
+        "ticks": 1742324662441
+    }
 }

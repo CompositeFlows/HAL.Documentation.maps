@@ -1,5 +1,5 @@
 {
-    "key": "KnBO2v002y  ",
+    "key": "cLrBNu00Sr  ",
     "token": "Manufacturers",
     "name": "Manufacturers",
     "created": "2024-09-08T11:30:11.149Z",
@@ -8,13 +8,18 @@
     "cachedPath": "c:/GitHub/HAL.Documentation.maps/tsmaps/Manufacturers/Ξ Manufacturers/Manufacturers.tsmap",
     "iText": "Link to 'Manufacturers'",
     "___rΩΩt___": {
-        "key": "KnBUYl01VE",
+        "key": "cLrDGK001F",
         "isLeaf": true
     },
     "___αssεts___": [
         {
-            "key": "δ-KnBUYl01VE",
-            "relativePath": "./δ steps/δ-KnBUYl01VE.tsstp"
+            "key": "δ-cLrDGK001F",
+            "relativePath": "./δ steps/δ-cLrDGK001F.tsstp"
         }
-    ]
+    ],
+    "___εdit___": {
+        "id": "cppLLt0My",
+        "editorID": "da_() => {\n        const extensions = vscode.extensions;\n        const docsAssember = extensions.getExtension('netoftrees.documentation-assembler');\n        if (docsAssember) {\n            return docsAssember.packageJSON.version;\n        }\n        return null;\n    }",
+        "ticks": 1742324477561
+    }
 }
